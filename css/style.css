@@ -372,6 +372,16 @@ button {
 .banner_main {
     position: relative;
     margin-bottom: -1px;
+    height: 500px;
+
+}
+.imgLogo{
+    margin-left: 580px;
+    margin-top: 50px;
+}
+.mkimg  {
+    height: 100%;
+    width: 100%;
 }
 
 .text-bg {
